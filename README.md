@@ -1,1 +1,3 @@
-不要看了！是个人都会用！
+## mod name quickly exported
+
+![Stars](https://img.shields.io/github/stars/limuze114514/MNQE-mc-)
